@@ -1,0 +1,15 @@
+C:\Users\wang'huan\Documents\GitHub\To\To\To\bin\Debug\To.exe.config
+C:\Users\wang'huan\Documents\GitHub\To\To\To\bin\Debug\To.exe
+C:\Users\wang'huan\Documents\GitHub\To\To\To\bin\Debug\To.pdb
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To.csprojAssemblyReference.cache
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\MainWindow.g.cs
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\App.g.cs
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To_MarkupCompile.cache
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To_MarkupCompile.lref
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\MainWindow.baml
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To.g.resources
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To.Properties.Resources.resources
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To.csproj.GenerateResource.cache
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To.csproj.CoreCompileInputs.cache
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To.exe
+C:\Users\wang'huan\Documents\GitHub\To\To\To\obj\Debug\To.pdb
