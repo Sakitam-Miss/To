@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\GitHub\To\To\Demo\bin\Debug\Demo.exe.config
+\\Mac\Home\Documents\GitHub\To\To\Demo\bin\Debug\Demo.exe
+\\Mac\Home\Documents\GitHub\To\To\Demo\bin\Debug\Demo.pdb
+\\Mac\Home\Documents\GitHub\To\To\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\To\To\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\To\To\Demo\obj\Debug\Demo.exe
+\\Mac\Home\Documents\GitHub\To\To\Demo\obj\Debug\Demo.pdb
